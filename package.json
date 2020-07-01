@@ -1,0 +1,52 @@
+{
+  "name": "Platzi-foundation-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.8.4",
+    "babel-loader": "^8.1.0",
+    "browser-sync": "^2.26.7",
+    "foundation-sites": "^6.6.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-extname": "^0.2.2",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-load-plugins": "^2.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^1.2.0",
+    "jquery": "^3.5.1",
+    "js-yaml": "^3.14.0",
+    "motion-ui": "^2.0.3",
+    "panini": "^1.6.3",
+    "rimraf": "^3.0.2",
+    "style-sherpa": "^1.0.2",
+    "uncss": "^0.17.3",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^4.43.0",
+    "webpack-stream": "^5.2.1",
+    "what-input": "^5.2.10",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegoalesco95/Platzi-foundation-prod.git"
+  },
+  "keywords": [],
+  "author": "Diego Osorio <Diegoalesco95@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diegoalesco95/Platzi-foundation-prod/issues"
+  },
+  "homepage": "https://github.com/Diegoalesco95/Platzi-foundation-prod#readme"
+}
